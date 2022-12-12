@@ -39,7 +39,7 @@
     "dependencies": {
         "dotenv": "^8.1.0",
         "exchange-service": "^1.0.1-alpha2",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "moment": "^2.24.0",
         "odata-v4-server": "^0.2.13",
         "patch-package": "^6.2.0"
